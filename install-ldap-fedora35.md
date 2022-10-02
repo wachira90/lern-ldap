@@ -1,5 +1,10 @@
 # INSTALL 389 DIRECTORY SERVER
 
+## INSTALL COMMAND 
+````
+yum install 389-ds-base    
+````
+
 ## CREATE FILE INSTANCE
 
 nano /root/instance.inf
